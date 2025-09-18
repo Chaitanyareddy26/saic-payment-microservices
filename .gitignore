@@ -1,0 +1,17 @@
+# Ignore build and dependency files
+/target/
+/build/
+
+# IDE and OS files
+/.idea/
+*.iml
+.DS_Store
+
+# Environment variables
+.env
+
+# Node dependencies
+/node_modules/
+
+# Logs
+*.log
